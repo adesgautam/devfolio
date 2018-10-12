@@ -14,14 +14,14 @@ To contribute to this repository:
 2. Fork the repository.
 3. Clone the repository on your local system.
 
-```git clone your-repository-url```
+   ```git clone your-repository-url```
 
 4. Make changes locally.
 
-```git add .```
+   ```git add .```
 
-```git commit -m "made it better"```
+   ```git commit -m "made it better"```
 
-```git push origin master```
+   ```git push origin master```
 
 5. Create a Pull Request - A "new pull request" button will appear on your forked repository. Use that to make the pull request.
