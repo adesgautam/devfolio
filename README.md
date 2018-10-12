@@ -1,5 +1,5 @@
 # devfolio
-This is a developer's portfolio template
+A developer's portfolio template
 
 This is modification of the original work done by [Ryan Fitzgerald](https://github.com/RyanFitzgerald/devportfolio)
 
